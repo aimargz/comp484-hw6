@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title">
-  <title id="title">AG monogram</title>
-  <circle cx="100" cy="100" r="98" fill="#1C2541" stroke="#5BC0BE" stroke-width="4"/>
-  <circle cx="100" cy="100" r="78" fill="none" stroke="#3A506B" stroke-width="1"/>
-  <text x="100" y="116" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="66" font-weight="700" text-anchor="middle">AG</text>
-  <circle cx="100" cy="165" r="4" fill="#5BC0BE"/>
-</svg>
