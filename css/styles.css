@@ -97,11 +97,17 @@ header h2 {
     margin-bottom: 12px;
 }
 
-header p:last-child {
+.intro-copy .summary,
+.intro-copy .career-goal {
     max-width: 620px;
     font-size: .96rem;
     line-height: 1.6;
     margin-bottom: 0;
+}
+
+.intro-copy .career-goal {
+    margin-top: 12px;
+    font-weight: 600;
 }
 
 .eyebrow, .date, .copyright {
@@ -268,7 +274,8 @@ footer h2 {
         margin-bottom: 10px;
     }
 
-    header p:last-child {
+    .intro-copy .summary,
+    .intro-copy .career-goal {
         font-size: .93rem;
         line-height: 1.55;
     }
