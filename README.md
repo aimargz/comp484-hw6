@@ -1,1 +1,1 @@
-# comp484-hw6
+https://aimargz.github.io/comp484-hw6/
